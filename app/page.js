@@ -1,2 +1,2 @@
-// Placeholder: PodPilot app root
 "use client";
+// Placeholder: PodPilot app root
