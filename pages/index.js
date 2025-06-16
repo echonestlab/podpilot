@@ -1,1 +1,0 @@
-// Placeholder: UI will be mounted from app dir
