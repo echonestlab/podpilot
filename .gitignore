@@ -1,1 +1,7 @@
 node_modules
+<<<<<<< HEAD
+=======
+.next
+out
+.env.local
+>>>>>>> 2cf6cd4 (Working version - clean build)
